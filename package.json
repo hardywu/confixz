@@ -1,0 +1,19 @@
+{
+  "name": "confixz",
+  "version": "0.1.0",
+  "description": "smart configuration files editor",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/hardywu/confixz",
+  "keywords": [
+    "Electron",
+    "configuration"
+  ],
+  "author": "hardywu",
+  "license": "GNU-1.0",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  }
+}
